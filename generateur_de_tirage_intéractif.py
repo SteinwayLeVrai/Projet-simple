@@ -3,7 +3,7 @@ from tkinter import ttk
 from tkinter import messagebox
 import random
 
-# Grille des gains basée sur l'image fournie
+# Grille des gains 
 gains = {
     (5, 2): 150000000,
     (5, 1): 200738,
